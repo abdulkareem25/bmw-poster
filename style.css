@@ -1,21 +1,6 @@
 @font-face {
-    font-family: firacode;
-    src: url(./FiraCode-VariableFont_wght.ttf);
-}
-
-@font-face {
     font-family: montserrat;
     src: url(./Montserrat-VariableFont_wght.ttf);
-}
-
-@font-face {
-    font-family: roboto;
-    src: url(./Roboto-VariableFont_wdth\,wght.ttf);
-}
-
-@font-face {
-    font-family: neue;
-    src: url(./NeueMachina-Regular_DQCmjH1st.ttf);
 }
 
 * {
@@ -35,7 +20,7 @@ body {
     width: 100%;
     padding: 25px;
     text-align: center;
-    background-image: url(https://images.unsplash.com/photo-1740098159692-d7c2b981d6a2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-image: url(./BMW.avif);
     background-size: cover;
     position: relative;
 }
